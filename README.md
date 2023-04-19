@@ -36,10 +36,14 @@ Email verification: sends a verification email to users when they register to ve
 
 If you find any bugs or issues with this app, please feel free to open an issue or submit a pull request.
 
-#screenshot
-
+# screenshot
+# Login Page
+![alt text](https://github.com/sarthaknerd/Login-register-auth-app-laravel/blob/main/Screenshot%20(280).png)
+# Registration Page
+![alt text](https://github.com/sarthaknerd/Login-register-auth-app-laravel/blob/main/Screenshot%20(281).png)
+# Database
 ![alt text](https://github.com/sarthaknerd/Login-register-auth-app-laravel/blob/main/Screenshot%20(279).png)
-![alt text](https://drive.google.com/file/d/1YhGhJGTocki3nkU1H3_zd3lruqQgJ4Ud/view?usp=sharing)
+
 
 
 
