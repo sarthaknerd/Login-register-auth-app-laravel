@@ -38,7 +38,7 @@ If you find any bugs or issues with this app, please feel free to open an issue 
 
 #screenshot
 
-![alt text](https://drive.google.com/file/d/1fY7a7C8SDg1czzU7bO-UAUmYfHA_NUPL/view?usp=share_link)
+![alt text](https://github.com/sarthaknerd/Login-register-auth-app-laravel/blob/main/Screenshot%20(279).png)
 ![alt text](https://drive.google.com/file/d/1YhGhJGTocki3nkU1H3_zd3lruqQgJ4Ud/view?usp=sharing)
 
 
